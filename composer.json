@@ -1,0 +1,11 @@
+{
+    "name": "andy/viktory-game-creator",
+    "description": "Automatically creates Viktory 2 games",
+    "authors": [
+        {
+            "name": "Andrew Lehman",
+            "email": "aplehm@gmail.com"
+        }
+    ],
+    "require": {}
+}
