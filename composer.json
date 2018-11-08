@@ -1,13 +1,18 @@
 {
-    "name": "andy/viktory-game-creator",
-    "description": "Automatically creates Viktory 2 games",
-    "authors": [
-        {
-            "name": "Andrew Lehman",
-            "email": "aplehm@gmail.com"
-        }
-    ],
-    "require": {
-        "slim/slim": "^3.11"
+  "name": "andy/viktory-game-creator",
+  "description": "Automatically creates Viktory 2 games",
+  "authors": [
+      {
+          "name": "Andrew Lehman",
+          "email": "aplehm@gmail.com"
+      }
+  ],
+  "require": {
+      "slim/slim": "^3.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "classes/"
     }
+  }
 }
